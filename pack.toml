@@ -1,0 +1,14 @@
+name = "create-modpack"
+author = "Techgamr"
+version = "2.0.0"
+description = "Create modpack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c1588f7c3c062e9a1de46733cbe43ab66d39059efeb722bd6a34b7497621eb06"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

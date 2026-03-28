@@ -1,0 +1,13 @@
+name = "Create Realism"
+filename = "realism-0.6.2-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YVMtzCO/versions/MX6yMZq9/realism-0.6.2-mc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "fd1933f6d5a383dd45195b260cf42487fc216f127e57dbe3461260a1012115260f963386d83db56b33b289e14b0f300cc9ccaa17d92ada9e040557c577809289"
+
+[update]
+[update.modrinth]
+mod-id = "8YVMtzCO"
+version = "MX6yMZq9"
