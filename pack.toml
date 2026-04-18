@@ -1,13 +1,13 @@
 name = "create-modpack"
 author = "Techgamr"
-version = "2.0.2"
+version = "2.0.3"
 description = "Create modpack"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03908819865690f41978e5d3d6a331017de417b8855a4e99677f21c95f5e72cc"
+hash = "cd1199cde29771e0d9c095e075f1d26ed9f8a002a15769b6ad2b373dec0b59aa"
 
 [versions]
 forge = "47.4.0"
