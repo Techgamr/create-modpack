@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".devcontainer/Dockerfile"
+hash = "12e1ca5e63961e5909fda06e950e735ff6a7879a21ae2d8b9d2c491b474eed92"
+
+[[files]]
+file = ".devcontainer/devcontainer.json"
+hash = "2c17b52d5508805c31df4c1f35b3125504a2542eae38b924b8b790bc9f6f049f"
+
+[[files]]
 file = ".github/workflows/build.yml"
-hash = "7761ce759ffe2fc2103945d5a709eb5f62a022b3d3250a8d31fe9185a51b75a0"
+hash = "7d1831bdcbb89ba3d4969cf5f7f1c940d796baf7fad23d444ac0bbd65088ce0f"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "6b95ce7516e64a649ca1c96607f629d0183eba443d6febba7cf1b9e709a665b4"
 
 [[files]]
 file = "LICENSE"
@@ -138,11 +150,6 @@ metafile = true
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "2e1b7da238b24dacf2c07ba6cdb734dc6e3a3837595eb5b33bf2988315b06919"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
 metafile = true
 
 [[files]]
