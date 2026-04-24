@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
-hash = "aba70a0cd8e2169d87508bcf587b8f59cebd0ea466b2fd873a0ca21f9a02ade3"
+hash = "9f44e3ca0fb7c34a8de416f8b357ef41c2b2c914a8f80e83c55e7e51c230c74d"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "022072cc3f4c4c4b80a63d3f70a70a952263a7775065c5d64b7eb570d381884e"
+hash = "566eb78790c89cf531bfb7002e411faa94ee10b7ad877e0ef1c624cd21c6262a"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
+hash = "415c23be2083c35d6e867c82d37030e076d7617deeb5cd2e21aadead49e35767"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-vehicles-official-content-pack.pw.toml"
-hash = "493bba07bda663d1ba32218a0add87ab74392f22b3801edabad64f248cd9d9d2"
+hash = "bcb842ea2ba60b758f33a89a5bd581277fe883f8d4e2b62f3502c1973f6f1921"
 metafile = true
 
 [[files]]
@@ -339,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
+hash = "b3e04d44f912f43588a592e499c75aac8652a4e461ad37aea67e2383cb5da9fb"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6e73e74bbd86b5426ccd676d38c653953b3b86836d0ebe1930022296d91dd5f3"
+hash = "b8a8ccdf5efa519cbb4aa5883ad253aa1056b50fd31218981da63f7304b2cfe5"
 metafile = true
 
 [[files]]
