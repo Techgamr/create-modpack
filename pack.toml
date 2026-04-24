@@ -1,6 +1,6 @@
 name = "create-modpack"
 author = "Techgamr"
-version = "2.0.3"
+version = "2.0.4"
 description = "Create modpack"
 pack-format = "packwiz:1.1.0"
 
