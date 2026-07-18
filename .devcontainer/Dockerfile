@@ -4,8 +4,8 @@ FROM mcr.microsoft.com/devcontainers/base:ubuntu
 RUN apt-get update \
     && apt-get install -y --no-install-recommends golang-go git ca-certificates
 
-ENV GOPATH=/root/go
-ENV PATH=${GOPATH}/bin:/usr/local/go/bin:${PATH}
+ENV GOPATH=/usr/local/go
+ENV PATH=${GOPATH}/bin:${PATH}
 
 # Install packwiz during build so it is available immediately when the container opens.
 RUN go install github.com/packwiz/packwiz@latest
