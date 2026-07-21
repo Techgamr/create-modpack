@@ -163,6 +163,11 @@ hash = "f3db39f5297e796cda07e8ec0fc1e16ec1a273d1faddc03f7a3e5d8c39d5d9c1"
 metafile = true
 
 [[files]]
+file = "mods/create-repair.pw.toml"
+hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "cc6fc949e8be879801537a682d4b3870461d66543806f0364e4f30791178e3df"
 metafile = true
