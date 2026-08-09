@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".devcontainer/Dockerfile"
-hash = "12e1ca5e63961e5909fda06e950e735ff6a7879a21ae2d8b9d2c491b474eed92"
-
-[[files]]
-file = ".devcontainer/devcontainer.json"
-hash = "2c17b52d5508805c31df4c1f35b3125504a2542eae38b924b8b790bc9f6f049f"
-
-[[files]]
-file = ".github/workflows/build.yml"
-hash = "7d1831bdcbb89ba3d4969cf5f7f1c940d796baf7fad23d444ac0bbd65088ce0f"
-
-[[files]]
-file = ".vscode/settings.json"
-hash = "6b95ce7516e64a649ca1c96607f629d0183eba443d6febba7cf1b9e709a665b4"
-
-[[files]]
-file = "LICENSE"
-hash = "9570a46ef4e62c43944967c68cf0ffae55813e98e8a95a94ed9bb9175343bdf3"
-
-[[files]]
-file = "flake.lock"
-hash = "6e9b4657908dd32c28a4fbb1611018c40b024429c98d8e832e3fb4eb268b0629"
-
-[[files]]
-file = "flake.nix"
-hash = "74c740099b4aa7baa564cee3c03c29c2f4ccf173fe4d4bf038efd4cb1e5d8626"
-
-[[files]]
 file = "icon.png"
 hash = "bbc4d177ae621ba915fb6e80e790d22a80acd18137c5284f243ed9c3ecf282c5"
 
@@ -100,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "8075b607c4cbcf37445296cfab13c09f8b2cb8703c3cd91c8d677c96ab38d940"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "0e741cecc1886cb327979aa37caeeb5d9070291107011833c39b0a72128a64a6"
 metafile = true
 
 [[files]]
