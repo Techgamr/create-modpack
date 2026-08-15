@@ -1,7 +1,5 @@
 *.disabled
 README.md
-flake.lock
-flake.nix
 LICENSE
 .vscode
 .github
