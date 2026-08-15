@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "558683c9172a3904a3b02e2473d7e14a94959430158e6daa180bb0b44ddfe03e"
+hash = "48915b5a29737b24454b69b8c587513c8dcfa2149b0a0c15243c31d5a9cb8945"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6b8508af720296ed19ae5a3cc0e8a6c7b180132d7e980111f48bf9d86d39342e"
+hash = "dea191c2807b7e8770b1c16e799ea92f4b0d3eb1561c4ff12d3de7be52687bff"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
+hash = "15d78c9077742dce0b1363b03fe9a9d173da5c5632df3ec771597d51e0760eff"
 metafile = true
 
 [[files]]
